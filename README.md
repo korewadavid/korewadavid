@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Mendez</h1>
 <h3 align="center">A passionate software developer from spain</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"
 - 🔭 I’m currently working on [Philosophers](https://github.com/korewadavid/Philosophers)
 
 - 🌱 I’m currently learning **42 Cursus https://www.42network.org/**
